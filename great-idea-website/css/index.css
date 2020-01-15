@@ -76,6 +76,8 @@ h1, h2, h3, h4, h5 {
 
 .logo-nav {
 	display: inline-block;
+	width: 49%;
+	text-align: right;
 }
 
 .header-left {
@@ -86,8 +88,9 @@ h1, h2, h3, h4, h5 {
 
 .logo-header {
 	display: inline-block;
-	height: 40%;
-	width: 40%;
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
 }
 
 h1 {
@@ -95,29 +98,57 @@ h1 {
 	text-align: center;
 }
 
+button {
+	font-size: 25px;
+    margin: 0 auto;
+    padding: 5px 25px;
+    display: list-item;
+}
+
+.top-content{
+	width: 100%;
+	margin: 2%;
+}
+
 .features{
 	display: inline-block;
-	width: 40%;
-	margin: 0 auto;
+	width: 49%;
+	margin: auto;
+	padding: 6%;
 }
 
 .about{
 	display: inline-block;
-	width: 40%;
-	margin: 0 auto;
+	width: 49%;
+	margin: auto;
+	padding: 6%;
 }
 
+.middle-img {
+	padding: 2%;
+}
 .services{
 	display: inline-block;
 	width: 33%;
+	padding: 2%;
 }
 
 .product {
 	display: inline-block;
 	width: 33%;
+	padding: 2%
 }
 
 .vision {
 	display: inline-block;
 	width: 33%;
+	padding: 2%
+}
+
+.contact {
+
+}
+
+footer{
+	text-align: center;
 }
