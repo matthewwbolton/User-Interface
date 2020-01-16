@@ -74,9 +74,13 @@ h1, h2, h3, h4, h5 {
 
 }
 
+.links a {
+	margin: 20px;
+}
+
 .logo-nav {
 	display: inline-block;
-	width: 49%;
+	width: 15%;
 	text-align: right;
 }
 
@@ -112,41 +116,49 @@ button {
 
 .features{
 	display: inline-block;
-	width: 49%;
-	margin: auto;
-	padding: 6%;
+	width: 35%;
+	margin: 0 5%;
+	padding: 5%;
 }
 
 .about{
 	display: inline-block;
-	width: 49%;
-	margin: auto;
-	padding: 6%;
+	width: 35%;
+	margin: 0 5%;
+	padding: 5%;
 }
 
 .middle-img {
 	padding: 2%;
+	text-align: center;
+	width: 85%;
+
 }
 .services{
 	display: inline-block;
-	width: 33%;
+	width: 25%;
 	padding: 2%;
+	margin: 2%;
 }
 
 .product {
 	display: inline-block;
-	width: 33%;
-	padding: 2%
+	width: 25%;
+	padding: 2%;
+	margin: 2%;
 }
 
 .vision {
 	display: inline-block;
-	width: 33%;
-	padding: 2%
+	width: 25%;
+	padding: 2%;
+	margin: 2%;
 }
 
-.contact {
-
+.contact-div {
+	width: 150px;
+    height: 150px;
+	margin-left: 50px;
 }
 
 footer{
