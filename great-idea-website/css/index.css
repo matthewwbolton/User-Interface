@@ -54,7 +54,9 @@ table {
 
 html, body {
     height: 100%;
-    font-family: 'Titillium Web', sans-serif;
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 20;
+	
 }
 
 h1, h2, h3, h4, h5 {
@@ -158,7 +160,7 @@ button {
 .contact-div {
 	width: 150px;
     height: 150px;
-	margin-left: 50px;
+	margin-left: 70 px;
 }
 
 footer{
